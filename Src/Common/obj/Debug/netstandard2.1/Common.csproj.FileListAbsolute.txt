@@ -1,0 +1,16 @@
+D:\Training App Dev\NorthwindTraders-master\Src\Common\bin\Debug\netstandard2.1\RiSAT.Eshop.Common.deps.json
+D:\Training App Dev\NorthwindTraders-master\Src\Common\bin\Debug\netstandard2.1\RiSAT.Eshop.Common.dll
+D:\Training App Dev\NorthwindTraders-master\Src\Common\bin\Debug\netstandard2.1\RiSAT.Eshop.Common.pdb
+D:\Training App Dev\NorthwindTraders-master\Src\Common\obj\Debug\netstandard2.1\Common.csproj.CoreCompileInputs.cache
+D:\Training App Dev\NorthwindTraders-master\Src\Common\obj\Debug\netstandard2.1\Common.AssemblyInfoInputs.cache
+D:\Training App Dev\NorthwindTraders-master\Src\Common\obj\Debug\netstandard2.1\Common.AssemblyInfo.cs
+D:\Training App Dev\NorthwindTraders-master\Src\Common\obj\Debug\netstandard2.1\RiSAT.Eshop.Common.dll
+D:\Training App Dev\NorthwindTraders-master\Src\Common\obj\Debug\netstandard2.1\RiSAT.Eshop.Common.pdb
+G:\RiSAT_Solutions\RiSATCommerce\Src\Common\bin\Debug\netstandard2.1\RiSAT.Eshop.Common.deps.json
+G:\RiSAT_Solutions\RiSATCommerce\Src\Common\bin\Debug\netstandard2.1\RiSAT.Eshop.Common.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\Common\bin\Debug\netstandard2.1\RiSAT.Eshop.Common.pdb
+G:\RiSAT_Solutions\RiSATCommerce\Src\Common\obj\Debug\netstandard2.1\Common.csproj.CoreCompileInputs.cache
+G:\RiSAT_Solutions\RiSATCommerce\Src\Common\obj\Debug\netstandard2.1\Common.AssemblyInfoInputs.cache
+G:\RiSAT_Solutions\RiSATCommerce\Src\Common\obj\Debug\netstandard2.1\Common.AssemblyInfo.cs
+G:\RiSAT_Solutions\RiSATCommerce\Src\Common\obj\Debug\netstandard2.1\RiSAT.Eshop.Common.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\Common\obj\Debug\netstandard2.1\RiSAT.Eshop.Common.pdb

@@ -1,0 +1,32 @@
+D:\Training App Dev\NorthwindTraders-master\Src\Infrastructure\obj\Debug\netcoreapp3\Infrastructure.csprojAssemblyReference.cache
+D:\Training App Dev\NorthwindTraders-master\Src\Infrastructure\obj\Debug\netcoreapp3\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Training App Dev\NorthwindTraders-master\Src\Infrastructure\obj\Debug\netcoreapp3\Infrastructure.AssemblyInfoInputs.cache
+D:\Training App Dev\NorthwindTraders-master\Src\Infrastructure\obj\Debug\netcoreapp3\Infrastructure.AssemblyInfo.cs
+D:\Training App Dev\NorthwindTraders-master\Src\Infrastructure\bin\Debug\netcoreapp3\RiSAT.Eshop.Infrastructure.deps.json
+D:\Training App Dev\NorthwindTraders-master\Src\Infrastructure\bin\Debug\netcoreapp3\RiSAT.Eshop.Infrastructure.dll
+D:\Training App Dev\NorthwindTraders-master\Src\Infrastructure\bin\Debug\netcoreapp3\RiSAT.Eshop.Infrastructure.pdb
+D:\Training App Dev\NorthwindTraders-master\Src\Infrastructure\bin\Debug\netcoreapp3\RiSAT.Eshop.Application.dll
+D:\Training App Dev\NorthwindTraders-master\Src\Infrastructure\bin\Debug\netcoreapp3\RiSAT.Eshop.Common.dll
+D:\Training App Dev\NorthwindTraders-master\Src\Infrastructure\bin\Debug\netcoreapp3\RiSAT.Eshop.Domain.dll
+D:\Training App Dev\NorthwindTraders-master\Src\Infrastructure\bin\Debug\netcoreapp3\RiSAT.Eshop.Application.pdb
+D:\Training App Dev\NorthwindTraders-master\Src\Infrastructure\bin\Debug\netcoreapp3\RiSAT.Eshop.Common.pdb
+D:\Training App Dev\NorthwindTraders-master\Src\Infrastructure\bin\Debug\netcoreapp3\RiSAT.Eshop.Domain.pdb
+D:\Training App Dev\NorthwindTraders-master\Src\Infrastructure\obj\Debug\netcoreapp3\Infrastructure.csproj.CopyComplete
+D:\Training App Dev\NorthwindTraders-master\Src\Infrastructure\obj\Debug\netcoreapp3\RiSAT.Eshop.Infrastructure.dll
+D:\Training App Dev\NorthwindTraders-master\Src\Infrastructure\obj\Debug\netcoreapp3\RiSAT.Eshop.Infrastructure.pdb
+G:\RiSAT_Solutions\RiSATCommerce\Src\Infrastructure\bin\Debug\netcoreapp3\RiSAT.Eshop.Infrastructure.deps.json
+G:\RiSAT_Solutions\RiSATCommerce\Src\Infrastructure\bin\Debug\netcoreapp3\RiSAT.Eshop.Infrastructure.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\Infrastructure\bin\Debug\netcoreapp3\RiSAT.Eshop.Infrastructure.pdb
+G:\RiSAT_Solutions\RiSATCommerce\Src\Infrastructure\bin\Debug\netcoreapp3\RiSAT.Eshop.Application.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\Infrastructure\bin\Debug\netcoreapp3\RiSAT.Eshop.Common.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\Infrastructure\bin\Debug\netcoreapp3\RiSAT.Eshop.Domain.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\Infrastructure\bin\Debug\netcoreapp3\RiSAT.Eshop.Application.pdb
+G:\RiSAT_Solutions\RiSATCommerce\Src\Infrastructure\bin\Debug\netcoreapp3\RiSAT.Eshop.Common.pdb
+G:\RiSAT_Solutions\RiSATCommerce\Src\Infrastructure\bin\Debug\netcoreapp3\RiSAT.Eshop.Domain.pdb
+G:\RiSAT_Solutions\RiSATCommerce\Src\Infrastructure\obj\Debug\netcoreapp3\Infrastructure.csprojAssemblyReference.cache
+G:\RiSAT_Solutions\RiSATCommerce\Src\Infrastructure\obj\Debug\netcoreapp3\Infrastructure.csproj.CoreCompileInputs.cache
+G:\RiSAT_Solutions\RiSATCommerce\Src\Infrastructure\obj\Debug\netcoreapp3\Infrastructure.AssemblyInfoInputs.cache
+G:\RiSAT_Solutions\RiSATCommerce\Src\Infrastructure\obj\Debug\netcoreapp3\Infrastructure.AssemblyInfo.cs
+G:\RiSAT_Solutions\RiSATCommerce\Src\Infrastructure\obj\Debug\netcoreapp3\Infrastructure.csproj.CopyComplete
+G:\RiSAT_Solutions\RiSATCommerce\Src\Infrastructure\obj\Debug\netcoreapp3\RiSAT.Eshop.Infrastructure.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\Infrastructure\obj\Debug\netcoreapp3\RiSAT.Eshop.Infrastructure.pdb

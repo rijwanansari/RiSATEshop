@@ -1,0 +1,386 @@
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\appsettings.json
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\appsettings.Production.json
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\appsettings.Test.json
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\nswag.json
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\AutoMapper.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\CsvHelper.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\FluentValidation.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\FluentValidation.AspNetCore.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\IdentityModel.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\IdentityServer4.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\IdentityServer4.AspNetIdentity.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\IdentityServer4.EntityFramework.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\IdentityServer4.EntityFramework.Storage.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\IdentityServer4.Storage.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\MediatR.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.ApiAuthorization.IdentityServer.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.NodeServices.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.SpaServices.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.DotNet.InternalAbstractions.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.Extensions.PlatformAbstractions.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\Namotion.Reflection.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\NJsonSchema.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\NSwag.Annotations.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\NSwag.AspNetCore.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\NSwag.Core.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\NSwag.Generation.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\NSwag.Generation.AspNetCore.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\obj\Debug\netcoreapp3.0\WebUI.csprojAssemblyReference.cache
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\obj\Debug\netcoreapp3.0\WebUI.csproj.CoreCompileInputs.cache
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\obj\Debug\netcoreapp3.0\WebUI.RazorAssemblyInfo.cache
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\obj\Debug\netcoreapp3.0\WebUI.RazorAssemblyInfo.cs
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\obj\Debug\netcoreapp3.0\WebUI.AssemblyInfoInputs.cache
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\obj\Debug\netcoreapp3.0\WebUI.AssemblyInfo.cs
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\obj\Debug\netcoreapp3.0\WebUI.RazorCoreGenerate.cache
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\obj\Debug\netcoreapp3.0\Razor\Pages\Error.cshtml.g.cs
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\obj\Debug\netcoreapp3.0\WebUI.RazorTargetAssemblyInfo.cache
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\obj\Debug\netcoreapp3.0\WebUI.RazorTargetAssemblyInfo.cs
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\obj\Debug\netcoreapp3.0\WebUI.csproj.CopyComplete
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\obj\Debug\netcoreapp3.0\staticwebassets\RiSAT.Eshop.WebUI.StaticWebAssets.Manifest.cache
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\obj\Debug\netcoreapp3.0\staticwebassets\RiSAT.Eshop.WebUI.StaticWebAssets.xml
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\obj\Debug\netcoreapp3.0\RiSAT.Eshop.WebUI.MvcApplicationPartsAssemblyInfo.cs
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\obj\Debug\netcoreapp3.0\RiSAT.Eshop.WebUI.MvcApplicationPartsAssemblyInfo.cache
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\obj\Debug\netcoreapp3.0\RiSAT.Eshop.WebUI.TagHelpers.input.cache
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\obj\Debug\netcoreapp3.0\RiSAT.Eshop.WebUI.TagHelpers.output.cache
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\obj\Debug\netcoreapp3.0\RiSAT.Eshop.WebUI.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\obj\Debug\netcoreapp3.0\RiSAT.Eshop.WebUI.pdb
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\RiSAT.Eshop.WebUI.StaticWebAssets.xml
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\RiSAT.Eshop.WebUI.exe
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\RiSAT.Eshop.WebUI.deps.json
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\RiSAT.Eshop.WebUI.runtimeconfig.json
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\RiSAT.Eshop.WebUI.runtimeconfig.dev.json
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\RiSAT.Eshop.WebUI.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\RiSAT.Eshop.WebUI.pdb
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\RiSAT.Eshop.WebUI.Views.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\RiSAT.Eshop.WebUI.Views.pdb
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\RiSAT.Eshop.Application.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\RiSAT.Eshop.Common.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\RiSAT.Eshop.Domain.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\RiSAT.Eshop.Infrastructure.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\RiSAT.Eshop.Persistence.dll
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\RiSAT.Eshop.Common.pdb
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\RiSAT.Eshop.Infrastructure.pdb
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\RiSAT.Eshop.Persistence.pdb
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\RiSAT.Eshop.Application.pdb
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\bin\Debug\netcoreapp3.0\RiSAT.Eshop.Domain.pdb
+D:\Training App Dev\NorthwindTraders-master\Src\WebUI\obj\Debug\netcoreapp3.0\RiSAT.Eshop.WebUI.Views.pdb
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\appsettings.Development.json
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\appsettings.json
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\appsettings.Production.json
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\appsettings.Test.json
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\nswag.json
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\RiSAT.Eshop.WebUI.StaticWebAssets.xml
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\RiSAT.Eshop.WebUI.exe
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\RiSAT.Eshop.WebUI.deps.json
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\RiSAT.Eshop.WebUI.runtimeconfig.json
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\RiSAT.Eshop.WebUI.runtimeconfig.dev.json
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\RiSAT.Eshop.WebUI.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\RiSAT.Eshop.WebUI.pdb
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\RiSAT.Eshop.WebUI.Views.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\RiSAT.Eshop.WebUI.Views.pdb
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\AutoMapper.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\CsvHelper.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\FluentValidation.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\FluentValidation.AspNetCore.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\FluentValidation.DependencyInjectionExtensions.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\IdentityModel.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\IdentityServer4.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\IdentityServer4.AspNetIdentity.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\IdentityServer4.EntityFramework.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\IdentityServer4.EntityFramework.Storage.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\IdentityServer4.Storage.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\MediatR.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.ApiAuthorization.IdentityServer.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.NodeServices.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.SpaServices.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.DotNet.InternalAbstractions.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.Extensions.PlatformAbstractions.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\Namotion.Reflection.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\NJsonSchema.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\NSwag.Annotations.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\NSwag.AspNetCore.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\NSwag.Core.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\NSwag.Generation.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\NSwag.Generation.AspNetCore.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\RiSAT.Eshop.Application.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\RiSAT.Eshop.Common.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\RiSAT.Eshop.Domain.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\RiSAT.Eshop.Infrastructure.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\RiSAT.Eshop.Persistence.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\RiSAT.Eshop.Common.pdb
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\RiSAT.Eshop.Infrastructure.pdb
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\RiSAT.Eshop.Persistence.pdb
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\RiSAT.Eshop.Application.pdb
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\bin\Debug\netcoreapp3.0\RiSAT.Eshop.Domain.pdb
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\obj\Debug\netcoreapp3.0\WebUI.csprojAssemblyReference.cache
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\obj\Debug\netcoreapp3.0\staticwebassets\RiSAT.Eshop.WebUI.StaticWebAssets.Manifest.cache
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\obj\Debug\netcoreapp3.0\staticwebassets\RiSAT.Eshop.WebUI.StaticWebAssets.xml
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\obj\Debug\netcoreapp3.0\WebUI.csproj.CoreCompileInputs.cache
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\obj\Debug\netcoreapp3.0\RiSAT.Eshop.WebUI.MvcApplicationPartsAssemblyInfo.cs
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\obj\Debug\netcoreapp3.0\RiSAT.Eshop.WebUI.MvcApplicationPartsAssemblyInfo.cache
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\obj\Debug\netcoreapp3.0\WebUI.RazorAssemblyInfo.cache
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\obj\Debug\netcoreapp3.0\WebUI.RazorAssemblyInfo.cs
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\obj\Debug\netcoreapp3.0\WebUI.AssemblyInfoInputs.cache
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\obj\Debug\netcoreapp3.0\WebUI.AssemblyInfo.cs
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\obj\Debug\netcoreapp3.0\RiSAT.Eshop.WebUI.TagHelpers.input.cache
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\obj\Debug\netcoreapp3.0\RiSAT.Eshop.WebUI.TagHelpers.output.cache
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\obj\Debug\netcoreapp3.0\WebUI.RazorCoreGenerate.cache
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\obj\Debug\netcoreapp3.0\Razor\Pages\Error.cshtml.g.cs
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.cs
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewImports.cshtml.g.cs
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewStart.cshtml.g.cs
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\obj\Debug\netcoreapp3.0\WebUI.RazorTargetAssemblyInfo.cache
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\obj\Debug\netcoreapp3.0\WebUI.RazorTargetAssemblyInfo.cs
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\obj\Debug\netcoreapp3.0\RiSAT.Eshop.WebUI.Views.pdb
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\obj\Debug\netcoreapp3.0\WebUI.csproj.CopyComplete
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\obj\Debug\netcoreapp3.0\RiSAT.Eshop.WebUI.dll
+G:\RiSAT_Solutions\RiSATCommerce\Src\WebUI\obj\Debug\netcoreapp3.0\RiSAT.Eshop.WebUI.pdb

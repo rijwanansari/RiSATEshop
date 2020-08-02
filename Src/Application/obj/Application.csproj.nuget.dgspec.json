@@ -1,0 +1,219 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\RiSAT_Solutions\\RiSATEshop\\RiSATEshop\\Src\\Application\\Application.csproj": {}
+  },
+  "projects": {
+    "G:\\RiSAT_Solutions\\RiSATEshop\\RiSATEshop\\Src\\Application\\Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\RiSAT_Solutions\\RiSATEshop\\RiSATEshop\\Src\\Application\\Application.csproj",
+        "projectName": "RiSAT.Eshop.Application",
+        "projectPath": "G:\\RiSAT_Solutions\\RiSATEshop\\RiSATEshop\\Src\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\Moinul\\.nuget\\packages\\",
+        "outputPath": "G:\\RiSAT_Solutions\\RiSATEshop\\RiSATEshop\\Src\\Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "G:\\RiSAT_Solutions\\RiSATEshop\\RiSATEshop\\NuGet.Config",
+          "C:\\Users\\Moinul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "G:\\RiSAT_Solutions\\RiSATEshop\\RiSATEshop\\Src\\Common\\Common.csproj": {
+                "projectPath": "G:\\RiSAT_Solutions\\RiSATEshop\\RiSATEshop\\Src\\Common\\Common.csproj"
+              },
+              "G:\\RiSAT_Solutions\\RiSATEshop\\RiSATEshop\\Src\\Domain\\Domain.csproj": {
+                "projectPath": "G:\\RiSAT_Solutions\\RiSATEshop\\RiSATEshop\\Src\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[8.5.0-preview5, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\RiSAT_Solutions\\RiSATEshop\\RiSATEshop\\Src\\Common\\Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\RiSAT_Solutions\\RiSATEshop\\RiSATEshop\\Src\\Common\\Common.csproj",
+        "projectName": "RiSAT.Eshop.Common",
+        "projectPath": "G:\\RiSAT_Solutions\\RiSATEshop\\RiSATEshop\\Src\\Common\\Common.csproj",
+        "packagesPath": "C:\\Users\\Moinul\\.nuget\\packages\\",
+        "outputPath": "G:\\RiSAT_Solutions\\RiSATEshop\\RiSATEshop\\Src\\Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "G:\\RiSAT_Solutions\\RiSATEshop\\RiSATEshop\\NuGet.Config",
+          "C:\\Users\\Moinul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\RiSAT_Solutions\\RiSATEshop\\RiSATEshop\\Src\\Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\RiSAT_Solutions\\RiSATEshop\\RiSATEshop\\Src\\Domain\\Domain.csproj",
+        "projectName": "RiSAT.Eshop.Domain",
+        "projectPath": "G:\\RiSAT_Solutions\\RiSATEshop\\RiSATEshop\\Src\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\Moinul\\.nuget\\packages\\",
+        "outputPath": "G:\\RiSAT_Solutions\\RiSATEshop\\RiSATEshop\\Src\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "G:\\RiSAT_Solutions\\RiSATEshop\\RiSATEshop\\NuGet.Config",
+          "C:\\Users\\Moinul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

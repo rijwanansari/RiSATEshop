@@ -1,0 +1,7 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <RootNamespace>RiSAT.Eshop.Common</RootNamespace>
+    <AssemblyName>RiSAT.Eshop.Common</AssemblyName>
+  </PropertyGroup>
+</Project>
