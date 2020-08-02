@@ -1,2 +1,2 @@
 # RiSATEshop
-RiSAT Eshop with clean architecture with Angular and ASP.NET core.
+RiSAT Eshop a clean architecture with Angular and ASP.NET core.
