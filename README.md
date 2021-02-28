@@ -6,12 +6,6 @@ RiSATEshop is a sample application built using ASP.NET Core and Entity Framework
 
 * [Clean Architecture with ASP.NET Core 2.1](https://youtu.be/_lwCVE_XgqI) ([slide deck](/Docs/Slides.pdf))
 
-The initial construction of this project is explained in the following blog posts:
-
-* [Code: Northwind Traders with Entity Framework Core](https://jasontaylor.dev/northwind-traders-with-entity-framework-core/)
-* [Create Northwind Traders Code First with Entity Framework Core – Part 1](https://jasontaylor.dev/create-northwind-traders-code-first-with-entity-framework-core-part-1/)
-* [Create Northwind Traders Code First with Entity Framework Core – Part 2](https://jasontaylor.dev/create-northwind-traders-code-first-with-entity-framework-core-part-2/)
-
 For information on upcoming features and fixes, take a look at the [product roadmap](https://github.com/Rijwan7475/RiSATEshop/).
 
 ## Getting Started
