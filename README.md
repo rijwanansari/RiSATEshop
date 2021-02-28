@@ -4,7 +4,7 @@ RiSAT Eshop a clean architecture with Angular and ASP.NET core.
 
 RiSATEshop is a sample application built using ASP.NET Core and Entity Framework Core. The architecture and design of the project is explained in the video:
 
-* [Clean Architecture with ASP.NET Core 2.1](https://youtu.be/_lwCVE_XgqI) ([slide deck](/Docs/Slides.pdf))
+* [Clean Architecture with ASP.NET Core 3.1](https://youtu.be/_lwCVE_XgqI) ([slide deck](/Docs/Slides.pdf))
 
 For information on upcoming features and fixes, take a look at the [product roadmap](https://github.com/Rijwan7475/RiSATEshop/).
 
